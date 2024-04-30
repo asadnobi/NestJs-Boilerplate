@@ -69,11 +69,11 @@ The configs folder contains configuration files for different environments or ap
 The core folder includes core modules and services that are fundamental to the application, such as database connections, logging, and utility functions.
 
 ### Resources
-[Nest.js Official Documentation](https://docs.nestjs.com/)
-[Nest.js GitHub Repository](https://github.com/nestjs/nest)
-[Nest.js Examples Repository](https://github.com/nestjs/nest/tree/master/sample)
+- [Nest.js Official Documentation](https://docs.nestjs.com/)
+- [Nest.js GitHub Repository](https://github.com/nestjs/nest)
+- [Nest.js Examples Repository](https://github.com/nestjs/nest/tree/master/sample)
 
 ### Additional Resources
-[Nest.js TypeScript Starter](https://github.com/nestjs/typescript-starter)
-[Nest.js Official YouTube Channel]()
-[Nest.js Discord Community]()
+- [Nest.js TypeScript Starter](https://github.com/nestjs/typescript-starter)
+- [Nest.js Official YouTube Channel]()
+[- Nest.js Discord Community]()
